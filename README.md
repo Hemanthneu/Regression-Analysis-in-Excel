@@ -1,6 +1,4 @@
-# Regression-Analysis-in-Excel
-
-Exploring the Influence of Various Determinants on Customer Spending
+# Exploring the Influence of Various Determinants on Customer Spending
 
 Welcome to the Regression Analysis in Excel project, centered around The Trendy Shopper—an expanding e-commerce enterprise specializing in contemporary products across various categories. This company boasts a wide customer base and diverse product range. However, uncertainties persist regarding the impact of pricing and discounts on customer spending. To address this, the project employs predictive modeling, utilizing both simple and multiple linear regression techniques.
 
